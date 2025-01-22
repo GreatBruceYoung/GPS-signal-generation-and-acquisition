@@ -10,3 +10,5 @@ SampledCA: generate the sampled C/A code sequence.
 ShiftedSampledCA: generate the sampled C/A code sequence with code delay. 
 signal_generation: generate C/A code and calculate correaltion function.
 singal_acuquisition: implement time-frequency space search method on received signal and sampled signal to acquire GPS signal.
+
+Note that this projected is adapted based on a course on Receiver Technology.
